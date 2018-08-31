@@ -1,0 +1,18 @@
+
+ #document {
+    width: 65%;
+    min-width: 640px;
+    max-width: 960px;
+}
+div.bodywrapper {
+    margin: 0 0 0 220px;
+}
+
+div.sidebar {
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+div.sidebarWrapper {
+	margin: 0 0 0 0px;
+}
